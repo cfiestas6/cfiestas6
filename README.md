@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a blockchain developer and student, currently learning back-end development with python.
+I'm a software developer and student at 42 Madrid, Spain. I'm keen on Blockchain technology, Back-End development and AI. Currently learning web scraping with Scrapy and Selenium, Django and developing 42 school projects in C.
 
 
 ## 🌐 Socials:
