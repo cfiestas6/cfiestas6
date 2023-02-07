@@ -10,8 +10,8 @@ I also create technical content posts on Medium and contribute in LearnWeb3DAO (
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfiestas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlosfiestas) 
-<a href="https://profile.intra.42.fr/users/cfiestas" rel="nofollow">
-	<img src="https://camo.githubusercontent.com/8a008c77daec47babe100b68f3e37121c4a3813c7f8535ed15fa48d6d4cde076/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7472612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d3432266c6f676f436f6c6f723d7768697465" alt="IntraProfile" data-canonical-src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&amp;logo=42&amp;logoColor=white" style="max-width: 100%; height: 20px;  border-radius: 3px; ">
+<a href="https://profile.intra.42.fr/users/cfiestas" rel="nofollow" style="border-radius: 3px;">
+	<img src="https://camo.githubusercontent.com/8a008c77daec47babe100b68f3e37121c4a3813c7f8535ed15fa48d6d4cde076/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7472612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d3432266c6f676f436f6c6f723d7768697465" alt="IntraProfile" data-canonical-src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&amp;logo=42&amp;logoColor=white" style="max-width: 100%; height: 20px; ">
 </a>
 
 # 💻 Tech Stack:
