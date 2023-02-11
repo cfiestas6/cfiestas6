@@ -4,9 +4,6 @@
 I'm currently a software engineering student at 42 Madrid. I'm keen on Blockchain technology, Back-End development and AI. Currently learning web scraping with Scrapy and Selenium, Django and developing 42 school projects in C.
 I also create technical content posts on Medium and contribute in LearnWeb3DAO (learnweb3.io) helping students and writting content for a new Smart Contract Testing course.
 
-# 42 School stats
-[![cfiestas's 42 stats](https://badge42.vercel.app/api/v2/cldzza58s02360fl6r9k2j26c/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfiestas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlosfiestas) 
 <a href="https://profile.intra.42.fr/users/cfiestas" rel="nofollow">
@@ -21,6 +18,9 @@ I also create technical content posts on Medium and contribute in LearnWeb3DAO (
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cfiestas6&theme=tokyonight&hide_border=true)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cfiestas6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+# 42 School stats
+[![cfiestas's 42 stats](https://badge42.vercel.app/api/v2/cldzza58s02360fl6r9k2j26c/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
