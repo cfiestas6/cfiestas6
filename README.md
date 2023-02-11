@@ -1,12 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 70%; height: 50%" />
-</div>  
-  
+ 
 
 # 💫 About Me:
 I'm a software developer and student at 42 Madrid, Spain. I'm keen on Blockchain technology, Back-End development and AI. Currently learning web scraping with Scrapy and Selenium, Django and developing 42 school projects in C.
 I also create technical content posts on Medium and contribute in LearnWeb3DAO (learnweb3.io) helping students and writting content for a new Smart Contract Testing course.
 
+# 42 School stats
+[![cfiestas's 42 stats](https://badge42.vercel.app/api/v2/cldzza58s02360fl6r9k2j26c/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfiestas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlosfiestas) 
