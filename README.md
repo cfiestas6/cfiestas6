@@ -1,7 +1,7 @@
  
 
 # 💫 About Me:
-I'm a software developer and student at 42 Madrid, Spain. I'm keen on Blockchain technology, Back-End development and AI. Currently learning web scraping with Scrapy and Selenium, Django and developing 42 school projects in C.
+I'm currently a software engineering student at 42 Madrid. I'm keen on Blockchain technology, Back-End development and AI. Currently learning web scraping with Scrapy and Selenium, Django and developing 42 school projects in C.
 I also create technical content posts on Medium and contribute in LearnWeb3DAO (learnweb3.io) helping students and writting content for a new Smart Contract Testing course.
 
 # 42 School stats
