@@ -1,7 +1,7 @@
  
 
 # 💫 About Me:
-I'm currently a software engineering student at 42 MadraMid. I'm keen on Blockchain technology, Back-End development and AI. Currently learning Machine Learning and developing 42 school projects in C.
+I'm currently a software engineering student at 42 Madrud. I'm keen on Blockchain technology, Back-End development and AI. Currently learning Machine Learning and developing 42 school projects in C.
 
 
 ## 🌐 Socials:
