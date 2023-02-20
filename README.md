@@ -1,23 +1,46 @@
- 
+<h1 align="center">Hi 👋, I'm Carlos</h1>
+<h3 align="center">Software engineering student at 42 Madrid and software developer.</h3>
+<br/>
 
-# 💫 About Me:
-I'm currently a software engineering student at 42 Madrid (Ecole 42). I'm keen on Blockchain technology, Back-End development and AI. Currently learning Machine Learning and developing 42 school projects in C.
+- 👨‍💻 I'm keen on **Blockchain, Web development and AI.**
 
+- 🔭 I’m currently working on [get_next_line](https://github.com/cfiestas6/get_next_line)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/carlosfiestas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@carlosfiestas) 
-<a href="https://profile.intra.42.fr/users/cfiestas" rel="nofollow">
-	<img src="https://camo.githubusercontent.com/8a008c77daec47babe100b68f3e37121c4a3813c7f8535ed15fa48d6d4cde076/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7472612d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d3432266c6f676f436f6c6f723d7768697465" alt="IntraProfile" data-canonical-src="https://img.shields.io/badge/Intra-000000?style=for-the-badge&amp;logo=42&amp;logoColor=white" style="height: 20px; border-radius: 3px!important;">
-</a>
+- 🌱 I’m currently learning **Machine Learning and Back-End development**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 📝 I regularly write articles on [medium.com](https://medium.com/@carlosfiestas)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/carlosfiestas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlosfiestas" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Programming Languages:</h3>
+<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-plain.svg" alt="solidity" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Blockchain app development:</h3>
+<p align="left"><a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="bootstrap" width="40" height="40"/></a><a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://cryptologos.cc/logos/chainlink-link-logo.svg?v=024" alt="bootstrap" width="40" height="40"/></a><a href="https://chaijs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="bootstrap" width="40" height="40"/></a>
+</p>
+
+	
+<h3 align="left">Web development frameworks & tools:</h3>
+<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Other technologies & Tools:</h3>
+<p align="left">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+</p>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cfiestas6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cfiestas6&theme=tokyonight&hide_border=true)<br/>
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cfiestas6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=cfiestas6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=cfiestas6&theme=tokyonight&hide_border=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=cfiestas6&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 # 42 School stats
 [![cfiestas's 42 stats](https://badge42.vercel.app/api/v2/cldzza58s02360fl6r9k2j26c/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
@@ -27,4 +50,3 @@ I'm currently a software engineering student at 42 Madrid (Ecole 42). I'm keen o
 
 ---
 [![](https://visitcount.itsvg.in/api?id=cfiestas6&icon=0&color=5)](https://visitcount.itsvg.in)
-
