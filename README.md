@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm keen on **Blockchain, Web development and AI.**
 
-- 🔭 I’m currently working on Born2beroot and [ft_printf](https://github.com/cfiestas6/ft_printf)
+- 🔭 I’m currently working on  [ft_printf](https://github.com/cfiestas6/ft_printf)
 
 - 🌱 I’m currently learning **Machine Learning and Back-End development**
 
