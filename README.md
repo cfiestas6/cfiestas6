@@ -2,7 +2,7 @@
 <h3 align="center">Software engineering student at 42 Madrid and software developer.</h3>
 <br/>
 
-- 👨‍💻 I'm keen on **Blockchain, Back-End development and AI.**
+- 👨‍💻 I'm keen on **Back-End development and AI.**
 
 - 🔭 I’m currently working on  [ft_printf](https://github.com/cfiestas6/ft_printf)
 
