@@ -4,7 +4,7 @@
 
 - 👨‍💻 I'm keen on **Back-End development and AI.**
 
-- 🔭 I’m currently working on  [ft_printf](https://github.com/cfiestas6/ft_printf)
+- 🔭 I’m currently working on  [minitalk](https://github.com/cfiestas6/minitalk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
