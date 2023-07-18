@@ -3,6 +3,7 @@
 <br/>
 
 - 👨‍💻 I'm keen on **Back-End development and AI.**
+- 💻 I'm currently learning **Data Analysis**.
 
 - 🔭 I’m currently working on  [minitalk](https://github.com/cfiestas6/minitalk)
 
