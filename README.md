@@ -2,9 +2,7 @@
 <h3 align="center">Data analyst | Python developer | Business intelligence analyst | Workflow automation developer.</h3>
 <br/>
 
-- 👨‍💻 I'm keen on **Back-End development and AI.**
-- 💻 I'm currently learning **Data Analysis**.
-
+- 👨‍💻 I'm keen on **Data analysis and AI.**
 - 🔭 I’m currently working on  [minitalk](https://github.com/cfiestas6/minitalk)
 
 <h3 align="left">Connect with me:</h3>
