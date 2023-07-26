@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Data analyst | Python developer | Business intelligence analyst | Workflow automation developer.</h3>
+<h3 align="center">Data analyst | Python developer  Workflow automation developer.</h3>
 <br/>
 
 - 👨‍💻 I'm keen on **Data analysis and AI.**
