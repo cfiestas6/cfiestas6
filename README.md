@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Data analyst | Python developer  Workflow automation developer.</h3>
+<h3 align="center">Data analyst | Python developer.</h3>
 <br/>
 
 - 👨‍💻 I'm keen on **Data analysis and AI.**
-- 🔭 I’m currently working on  [minitalk](https://github.com/cfiestas6/minitalk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
