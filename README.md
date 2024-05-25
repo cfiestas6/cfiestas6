@@ -1,4 +1,4 @@
-<h3 align="center">DeFi Research Analyst Intern | Data analyst | ML / DL Enthusiast </h3>
+<h3 align="center">Research Intern | Data analyst | ML / DL Enthusiast </h3>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
