@@ -1,4 +1,4 @@
-<h3 align="center">Data analyst | Entrepreneur | ML / DL Enthusiast </h3>
+<h3 align="center">Data analyst | ML / DL Enthusiast </h3>
 <br/>
 
 <h3 align="left">Connect with me:</h3>
